@@ -1,0 +1,2 @@
+#!/bin/bash
+qrep "^[[:alpha:]]" /etc/ssh/sshd_config
